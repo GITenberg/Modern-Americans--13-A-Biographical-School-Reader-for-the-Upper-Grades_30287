@@ -1,0 +1,30 @@
+_repo: Modern-Americans--13-A-Biographical-School-Reader-for-the-Upper-Grades_30287
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Sanford, Chester Milton
+    birthdate: 1872
+    gutenberg_agent_id: '34495'
+    url: http://www.gutenberg.org/2009/agents/34495
+  - agent_name: Owen, Grace Arlington
+    gutenberg_agent_id: '34496'
+    url: http://www.gutenberg.org/2009/agents/34496
+description: ''
+gutenberg_issued: '2009-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30287'
+  lccn: '21019202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography -- Juvenile literature'
+- !lcc 'E660'
+- !lcsh 'United States -- Biography'
+title: "Modern Americans\r\nA Biographical School Reader for the Upper Grades"
+url: http://www.gutenberg.org/ebooks/30287
